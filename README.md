@@ -1,9 +1,14 @@
 # ObsidianOS
 ObsidianOS is an Arch-based Linux distribution that built to introduce the best experience with Obsidian custom Linux kernel.<br>
 
-Built on Arch - Leverages the power and flexibility of Arch Linux. <br>
-Better performance - ObsidianOS kernel has a better response time and less bloat that default Arch Linux kernel.<br> 
-Security & Privacy - In spite of focusing on performance, Obsidian Linux kernel provide a better security. <br>
+What is Obsidian OS? <br>
+Obsidian OS is a modern, robust Linux distribution crafted atop Arch Linux. Designed for developers, power-users, and enthusiasts, Obsidian OS features a custom kernel optimized for superior performance and security, a brand-new intuitive installer, and native Debian package (.deb) support—giving you the power to choose from an unmatched range of software.
+
+Arch-based core with rolling releases and bleeding-edge packages
+Custom-tuned kernel for speed, stability, and hardware support
+Brand-new installer – fast, easy, accessible for all levels
+Lightweight, customizable desktop
+Open, community-driven development
 ## Getting Started
 ### Stable Version
 Unavailable :(
